@@ -1,0 +1,5 @@
+{
+  "name": "Kanji Level Architect",
+  "description": "A sophisticated drag-and-drop tool for organizing Kanji and Radicals across 72 levels, featuring dependency validation and CSV export.",
+  "requestFramePermissions": []
+}
